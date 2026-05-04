@@ -1,14 +1,4 @@
-# Hello3D – Resultado
-
-Disciplina: Computação Gráfica
-
-Aluno: Felipe Eduardo Mossmann
-
-## Alteração realizada
-Foi alterado o título da janela para:
-Ola 3D – Felipe Eduardo Mossmann
-
-## Execução do programa
-
-Abaixo está o print do programa funcionando:
+Módulo 1:
 ![Resultado](PrintHello3D.png)
+Módulo 2: 
+![Resultado](PrintHello3DCubo.png)
