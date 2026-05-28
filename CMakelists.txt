@@ -48,6 +48,7 @@ set(EXERCISES
     Hello3DCubo
     Vivencial1
     ModuloTres
+    VivencialDois
 )
 
 add_compile_options(-Wno-pragmas)
