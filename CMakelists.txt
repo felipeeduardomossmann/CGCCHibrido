@@ -50,6 +50,7 @@ set(EXERCISES
     ModuloTres
     VivencialDois
     ModuloCinco
+    ModuloSeis
 )
 
 add_compile_options(-Wno-pragmas)
