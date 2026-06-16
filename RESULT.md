@@ -6,31 +6,24 @@ Módulo 2:
 ![Resultado](PrintHello3DCubo.png)
 Módulo 3:
 ![Resultado](Modulo3.png)
-Módulo 5:
-# Comandos da Aplicação
 
-**Câmera e Navegação (Primeira Pessoa)**
+Módulo 4 está na atividade vivencial 1
+
+Módulo 5:
+## Novas Funcionalidades: Câmera e Navegação (Primeira Pessoa)
 * `Mouse`: Olhar ao redor (Visão 360º).
 * `W`: Mover para frente.
 * `S`: Mover para trás.
 * `A`: Mover para a esquerda.
 * `D`: Mover para a direita.
 * `Scroll do Mouse`: Ajustar Zoom (Aproximar/Afastar).
-
-**Iluminação (3 Pontos)**
-* `1`: Liga/Desliga a Luz Principal (Key Light).
-* `2`: Liga/Desliga a Luz de Preenchimento (Fill Light).
-* `3`: Liga/Desliga a Luz de Fundo (Back Light).
-
-**Controle de Objetos**
-* `TAB`: Alterna o controle e o foco da luz entre os objetos da cena.
-* `Seta para Cima` / `Seta para Baixo`: Rotaciona o objeto no eixo X.
-* `Seta para a Esquerda` / `Seta para a Direita`: Rotaciona o objeto no eixo Y.
-* `Z` / `C`: Rotaciona o objeto no eixo Z.
-* `]`: Aumenta a escala (tamanho) do objeto.
-* `[`: Diminui a escala (tamanho) do objeto.
-
-**Sistema**
-* `ESC`: Encerra a aplicação.
 ![Resultado](Modulo5P1.png)
 ![Resultado](Modulo5P2.png)
+
+Módulo 6:
+## Novas Funcionalidades: Trajetória Animada
+* `P`: Adiciona um waypoint na posição exata atual da câmera para o objeto selecionado.
+* `ESPAÇO`: Inicia ou Pausa a animação de trajetória do objeto selecionado (exige pelo menos 2 pontos criados).
+* `O`: (Letra O) Apaga todos os pontos gravados e reseta a trajetória do objeto selecionado.
+![Resultado](Modulo6P1.png)
+![Resultado](Modulo6P2.png)
