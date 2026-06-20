@@ -51,6 +51,7 @@ set(EXERCISES
     VivencialDois
     ModuloCinco
     ModuloSeis
+    GrauB
 )
 
 add_compile_options(-Wno-pragmas)
